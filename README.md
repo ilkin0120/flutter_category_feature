@@ -40,17 +40,22 @@ A modern Flutter application showcasing category and subcategory management with
 
 ## 📦 Installation
 
-1. Install dependencies:
+1. Clone the repository:
+```bash
+git clone https://github.com/ilkin0120/flutter_category_feature.git
+```
+
+2. Install dependencies:
 ```bash
 flutter pub get
 ```
 
-2. Run code generation:
+3. Run code generation:
 ```bash
 flutter pub run build_runner build
 ```
 
-3. Run the app:
+4. Run the app:
 ```bash
 flutter run
 ```
